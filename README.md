@@ -19,3 +19,8 @@ Created new branch Divide
     Commands:
         git checkout -b function/divide
         // added divide.ts with necessary code
+        git add .
+        git commit -m "Divide function added and readme updated"
+        git push -u origin function/divide
+        
+
