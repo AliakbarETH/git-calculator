@@ -15,3 +15,8 @@ Navigated to dev branch
         git checkout dev
         // updated readme and pushed
 
+Created a new branch Subtract
+    Commands:
+        git checkout -b function/subtract
+        // created subtract.ts and added necessary code 
+
