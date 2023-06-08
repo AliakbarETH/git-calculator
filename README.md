@@ -15,3 +15,25 @@ Navigated to dev branch
         git checkout dev
         // updated readme and pushed
 
+Navigated to dev branch
+    Commands:
+        git checkout dev
+        // updated readme and pushed
+
+Created new branch function/multiply
+    Commands:   
+        git checkout -b function/multiply
+        // Created multiply.ts and added necessary code 
+
+Pushed the changes to github
+    Commands:
+        git add .
+        git commit -m "Multiply function added"
+        git push -u origin function/multiply
+
+Updated readme and pushed
+    Commands:
+        git add .
+        git commit -m "Readme updated"
+        git push
+
