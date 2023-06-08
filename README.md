@@ -45,3 +45,10 @@ Created a new branch Subtract
         git push -u origin function/subtract
 
 
+Created a new branch Modulus
+    Commands:
+        git checkout -b function/modulus
+        git add .
+        git commit -m "Updated readme"
+        git push
+        
