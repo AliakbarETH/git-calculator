@@ -10,4 +10,8 @@ Created dev branch
         git add .
         git commit -m "Added main file with necessary code "
         
+Navigated to dev branch
+    Commands:
+        git checkout dev
+        // updated readme and pushed
 
