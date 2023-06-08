@@ -17,7 +17,12 @@ Created new branch function/add
 
 Created new file add.ts and added necessary code
     Commands:
+        git add .
+        git commit -m "Add function implemented"
+        git push -u origin function/add
+
         
+
 
         
 
