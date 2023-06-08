@@ -30,3 +30,10 @@ Pushed the changes to github
         git add .
         git commit -m "Multiply function added"
         git push -u origin function/multiply
+
+Updated readme and pushed
+    Commands:
+        git add .
+        git commit -m "Readme updated"
+        git push
+
