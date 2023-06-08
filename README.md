@@ -20,8 +20,16 @@ Created new file add.ts and added necessary code
         git add .
         git commit -m "Add function implemented"
         git push -u origin function/add
+        // Updated Readme
+        git add .
+        git commit -m "Readme updated"
+        git push -u origin function/add
+
 
         
+
+
+
 
 
         
