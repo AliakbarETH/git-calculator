@@ -15,3 +15,10 @@ Navigated to dev branch
         git checkout dev
         // updated readme and pushed
 
+Created a new branch Modulus
+    Commands:
+        git checkout -b function/modulus
+        git add .
+        git commit -m "Updated readme"
+        git push
+        
