@@ -18,5 +18,7 @@ Navigated to dev branch
 Created a new branch Subtract
     Commands:
         git checkout -b function/subtract
-        // created subtract.ts and added necessary code 
+        // created subtract.ts and added necessary code  and pushed the code
+        git push -u origin function/subtract
+
 
