@@ -38,11 +38,14 @@ Navigated to dev branch
         git checkout dev
         // updated readme and pushed
 
+
 Created a new branch Subtract
     Commands:
         git checkout -b function/subtract
         // created subtract.ts and added necessary code  and pushed the code
         git push -u origin function/subtract
+
+=======
 
 
 Created a new branch Modulus
@@ -52,6 +55,7 @@ Created a new branch Modulus
         git commit -m "Updated readme"
         git push
         
+
 Created new branch Divide
     Commands:
         git checkout -b function/divide
@@ -60,6 +64,9 @@ Created new branch Divide
         git commit -m "Divide function added and readme updated"
         git push -u origin function/divide
         
+
+
+
 Navigated to dev branch
     Commands:
         git checkout dev
@@ -81,6 +88,5 @@ Updated readme and pushed
         git add .
         git commit -m "Readme updated"
         git push
-
 
 
