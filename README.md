@@ -24,4 +24,9 @@ Created new branch function/multiply
     Commands:   
         git checkout -b function/multiply
         // Created multiply.ts and added necessary code 
-        
+
+Pushed the changes to github
+    Commands:
+        git add .
+        git commit -m "Multiply function added"
+        git push -u origin function/multiply
