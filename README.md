@@ -15,3 +15,7 @@ Navigated to dev branch
         git checkout dev
         // updated readme and pushed
 
+Created new branch Divide
+    Commands:
+        git checkout -b function/divide
+        // added divide.ts with necessary code
